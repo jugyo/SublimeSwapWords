@@ -1,0 +1,3 @@
+[
+    { "keys": ["command+k", "command+s"], "command": "swap_words" }
+]
